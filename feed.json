@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Adora Hospitality ",
     "description": "",
-    "home_page_url": "https://gaelkbertrand.github.io/adorablog",
-    "feed_url": "https://gaelkbertrand.github.io/adorablog/feed.json",
+    "home_page_url": "https://insider.adorahospitality.com",
+    "feed_url": "https://insider.adorahospitality.com/feed.json",
     "user_comment": "",
-    "icon": "https://gaelkbertrand.github.io/adorablog/media/website/logo_url-1.png",
+    "icon": "https://insider.adorahospitality.com/media/website/logo_url-1.png",
     "author": {
         "name": "Adora Hospitality"
     },
     "items": [
         {
-            "id": "https://gaelkbertrand.github.io/adorablog/test.html",
-            "url": "https://gaelkbertrand.github.io/adorablog/test.html",
+            "id": "https://insider.adorahospitality.com/test.html",
+            "url": "https://insider.adorahospitality.com/test.html",
             "title": "Test",
             "summary": "Test",
             "content_html": "\n  <p>\n    Test\n  </p>",
