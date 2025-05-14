@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gaelkbertrand.github.io/adorablog/sitemap.xml

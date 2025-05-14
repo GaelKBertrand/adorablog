@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Adora Hospitality </title>
+    <link href="https://gaelkbertrand.github.io/adorablog/feed.xml" rel="self" />
+    <link href="https://gaelkbertrand.github.io/adorablog" />
+    <updated>2025-05-14T16:19:42+05:30</updated>
+    <author>
+        <name>Adora Hospitality</name>
+    </author>
+    <id>https://gaelkbertrand.github.io/adorablog</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Adora Hospitality</name>
+        </author>
+        <link href="https://gaelkbertrand.github.io/adorablog/test.html"/>
+        <id>https://gaelkbertrand.github.io/adorablog/test.html</id>
+
+        <updated>2025-05-14T16:19:42+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Test
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,2 +1,0 @@
-# adorablog
-Blog
