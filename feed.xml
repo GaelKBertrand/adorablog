@@ -3,7 +3,7 @@
     <title>Adora Hospitality </title>
     <link href="https://insider.adorahospitality.com/feed.xml" rel="self" />
     <link href="https://insider.adorahospitality.com" />
-    <updated>2025-05-16T17:01:24+05:30</updated>
+    <updated>2025-05-16T18:06:57+05:30</updated>
     <author>
         <name>Adora Hospitality</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://insider.adorahospitality.com/test.html"/>
         <id>https://insider.adorahospitality.com/test.html</id>
+        <media:content url="https://insider.adorahospitality.com/media/posts/1/pexels-ajaybhargavguduru-939715.jpg" medium="image" />
 
         <updated>2025-05-14T16:19:42+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://insider.adorahospitality.com/media/posts/1/pexels-ajaybhargavguduru-939715.jpg" alt="" />
                     Himachal Pradesh Manali, cradled in the heart of the Himalayas, is more than just a hill station—it's an experience. Whether&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://insider.adorahospitality.com/media/posts/1/pexels-ajaybhargavguduru-939715.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://insider.adorahospitality.com/media/posts/1/pexels-julia-volk-5205541.jpg" height="5461" width="8192" alt="Manali"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://insider.adorahospitality.com/media/posts/1/responsive/pexels-julia-volk-5205541-xs.jpg 300w ,https://insider.adorahospitality.com/media/posts/1/responsive/pexels-julia-volk-5205541-sm.jpg 480w ,https://insider.adorahospitality.com/media/posts/1/responsive/pexels-julia-volk-5205541-md.jpg 768w">
