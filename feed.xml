@@ -3,7 +3,7 @@
     <title>Adora Hospitality </title>
     <link href="https://insider.adorahospitality.com/feed.xml" rel="self" />
     <link href="https://insider.adorahospitality.com" />
-    <updated>2026-04-06T18:47:58+05:30</updated>
+    <updated>2026-04-06T18:56:58+05:30</updated>
     <author>
         <name>Adora Hospitality</name>
     </author>
@@ -12,11 +12,12 @@
     <entry>
         <title>The Family Sanctuary in Himalayas: Starway Homes</title>
         <author>
-            <name>Adora Hospitality</name>
+            <name>BeeKayKoozie</name>
         </author>
         <link href="https://insider.adorahospitality.com/starway-homes-manali-luxury-apartments-family-stay/"/>
         <id>https://insider.adorahospitality.com/starway-homes-manali-luxury-apartments-family-stay/</id>
         <media:content url="https://insider.adorahospitality.com/media/posts/13/orchard-8.jpg" medium="image" />
+            <category term="2026"/>
 
         <updated>2026-04-06T18:47:39+05:30</updated>
             <summary type="html">
@@ -61,11 +62,12 @@
     <entry>
         <title>Best Vacation Stay in Manali</title>
         <author>
-            <name>Adora Hospitality</name>
+            <name>BeeKayKoozie</name>
         </author>
         <link href="https://insider.adorahospitality.com/luxury-swiss-cottage-stay-old-manali/"/>
         <id>https://insider.adorahospitality.com/luxury-swiss-cottage-stay-old-manali/</id>
         <media:content url="https://insider.adorahospitality.com/media/posts/12/swiss-2.jpg" medium="image" />
+            <category term="2026"/>
 
         <updated>2026-04-06T18:37:09+05:30</updated>
             <summary type="html">
@@ -121,11 +123,12 @@
     <entry>
         <title>The Ultimate Spiti Valley Bike Expedition</title>
         <author>
-            <name>Adora Hospitality</name>
+            <name>BeeKayKoozie</name>
         </author>
         <link href="https://insider.adorahospitality.com/spiti-valley-bike-trip-manali-2026/"/>
         <id>https://insider.adorahospitality.com/spiti-valley-bike-trip-manali-2026/</id>
         <media:content url="https://insider.adorahospitality.com/media/posts/11/ride-3.jpg" medium="image" />
+            <category term="2026"/>
 
         <updated>2026-04-06T18:24:40+05:30</updated>
             <summary type="html">
